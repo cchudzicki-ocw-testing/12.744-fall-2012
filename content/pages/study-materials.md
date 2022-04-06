@@ -28,7 +28,7 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource f2b9a70f-748e-d8c8-dc63-a32df0f0e972 >}}
+{{< resource f2b9a70f-748e-d8c8-dc63-a32df0f0e972 >}}
 
 {{% resource_link 2c87890b-ae9e-a584-22a5-2d39bffdd2da "R & S Processes (PDF)" %}}
 
@@ -43,7 +43,7 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[{{< resource 4c2a1fc4-ce50-7d4c-5a70-f1f390a75a27 >}}]({{< baseurl >}}/resources/mit12_744f12_week2)
+{{< resource uuid="4c2a1fc4-ce50-7d4c-5a70-f1f390a75a27" href_uuid="cc62a03d-a2b1-0491-9e27-6319ff3591da" >}}
 
 {{% resource_link cc62a03d-a2b1-0491-9e27-6319ff3591da "Extinct Radionuclides (PDF)" %}}
 
@@ -73,7 +73,7 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource 2495773b-3506-ad5d-0039-2ab0a9479ea8 >}}
+{{< resource 2495773b-3506-ad5d-0039-2ab0a9479ea8 >}}
 
 {{% resource_link a1eecd0f-d572-397d-8552-d010f92850f2 "Surface Exposure Dating (PDF)" %}}
 
@@ -88,7 +88,7 @@ TOPICS
 {{< tdopen >}}
 
 
-{{< resource fba6c3d4-c8ac-7be5-ebde-cea3086be2ea >}}![This resource may not render correctly in a screen reader.](/images/inacessible.gif)
+{{< resource fba6c3d4-c8ac-7be5-ebde-cea3086be2ea >}}
 
 {{% resource_link 23173b9d-1ac1-a9da-b170-165dea45c9dd "Radiocarbon (PDF)" %}}
 
@@ -103,7 +103,7 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[{{< resource fb5abc7a-9677-238e-d0e1-15e79c8de19b >}}]({{< baseurl >}}/resources/mit12_744f12_week6)
+{{< resource uuid="fb5abc7a-9677-238e-d0e1-15e79c8de19b" href_uuid="066cada3-3eee-5c3b-0409-eff3ddbb069c" >}}
 
 {{% resource_link 066cada3-3eee-5c3b-0409-eff3ddbb069c "Mass Spectrometry (PDF)" %}}
 
@@ -118,7 +118,7 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[{{< resource f4968981-018f-0e0a-c0df-5248f893d37a >}}]({{< baseurl >}}/resources/mit12_744f12_week7)
+{{< resource uuid="f4968981-018f-0e0a-c0df-5248f893d37a" href_uuid="a9a5808e-f50b-6fbd-5e33-531ffdcca685" >}}
 
 {{% resource_link a9a5808e-f50b-6fbd-5e33-531ffdcca685 "Rayleigh Fractionation (PDF)" %}}
 
@@ -133,7 +133,7 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[{{< resource a90b4067-067b-71f3-57f6-b5bc5ac5adea >}}]({{< baseurl >}}/resources/mit12_744f12_week8)
+{{< resource uuid="a90b4067-067b-71f3-57f6-b5bc5ac5adea" href_uuid="524263ba-81f9-bb4d-f0ed-448a309b25e3" >}}
 
 {{% resource_link 524263ba-81f9-bb4d-f0ed-448a309b25e3 "Dole Effect (PDF)" %}}
 
@@ -148,7 +148,7 @@ TOPICS
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{< resource 57d160d0-ddc4-5bc7-11cd-949508f4df65 >}}
+{{< resource 57d160d0-ddc4-5bc7-11cd-949508f4df65 >}}
 
 {{% resource_link 894c3983-6076-9e9b-56fb-053d02bea966 "Carbon Fixation (PDF)" %}}
 
@@ -163,7 +163,7 @@ TOPICS
 {{< tdopen >}}
 
 
-{{< resource 5ba9b65e-e0b7-acca-43a0-494bdceecdec >}}![This resource may not render correctly in a screen reader.](/images/inacessible.gif)
+{{< resource 5ba9b65e-e0b7-acca-43a0-494bdceecdec >}}
 
 {{% resource_link e69708cd-a1e0-b598-ca64-d82b1f6064a3 "Clumped Isotopes (PDF)" %}}
 
@@ -178,7 +178,7 @@ TOPICS
 {{< tdopen >}}
 
 
-{{< resource 7fd5031a-5b06-7baf-ed9c-a541af0ffe80 >}}![This resource may not render correctly in a screen reader.](/images/inacessible.gif)
+{{< resource 7fd5031a-5b06-7baf-ed9c-a541af0ffe80 >}}
 
 {{% resource_link 6c692c7a-e552-ae77-601c-485a795f53e9 "Inputs and Outputs (PDF)" %}}
 
@@ -193,13 +193,13 @@ Extras
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[{{< resource 60e6005d-a52c-c379-80cb-2e339ec5201d >}}]({{< baseurl >}}/resources/mit12_744f12_extras_norm)
+{{< resource uuid="60e6005d-a52c-c379-80cb-2e339ec5201d" href_uuid="e16d5d15-9d34-5163-429e-f69fc24715db" >}}
 
 {{% resource_link e16d5d15-9d34-5163-429e-f69fc24715db "Normal Kinetic Isotope Effect (PDF)" %}}
 
-[{{< resource 140b0c43-9829-ef06-5d48-f65eef515b03 >}}]({{< baseurl >}}/resources/mit12_744f12_extras_norm)
+{{< resource uuid="140b0c43-9829-ef06-5d48-f65eef515b03" href_uuid="e16d5d15-9d34-5163-429e-f69fc24715db" >}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 8b827246-e333-32e4-b6b9-0c54c09000ba "Effusion (PDF)" %}}
+{{% resource_link 8b827246-e333-32e4-b6b9-0c54c09000ba "Effusion (PDF)" %}}
 
 
 {{< tdclose >}}
