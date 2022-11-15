@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides cartoons depicting key concepts from the course
+  that were used during the weekly recitation sections.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

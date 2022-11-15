@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section provides lecture summaries, readings, and related links
+  for the first six lectures of the course. This section of the course is intended
+  to give the student a firm understanding of the underlying principles that determine
+  the abundance, stability, and nature of the isotopes.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Nuclear Systematics
@@ -40,7 +44,7 @@ The Basics
 Our starting point is to examine the cosmic abundance of the elements. From this, we embark on a quest to understand the factors underlying the stability of elements and isotopes, and the relation to their cosmic abundances. This also leads to a foundation for explaining the origin of the elements and isotopes (nucleosynthesis). We will outline the nature and relationship of the four fundamental forces, discussing the relativistic and quantum-mechanical principles underlying our understanding of the universe and the factors controlling nuclear stability. We will also briefly discuss the modes of radioactive decay (more on that in Lecture 3).
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 1 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=129084&pt=2&p=146929)
+[Lecture 1 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=129084&pt=2&p=146929)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -55,7 +59,7 @@ Nucleosynthesis
 We aim to understand how the elements and isotopes came to be, within the context of the principles presented in Lecture 1, and how these processes are reflected in the cosmic abundance of the elements and isotopes. We start on a wonderful journey that begins with the big bang (primordial nucleosynthesis), follows through galactic evolution (generations of stars and galactic nucleosynthesis), and arrives at the amazing processes of stellar evolution and nucleosynthesis. We describe how our detailed knowledge of this incredible story is woven into the chart of the nuclides (isotopes) and outline the various nucleosynthetic pathways that lead to very stuff that we (and the earth) are made of.
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture 2 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=129404&pt=2&p=146929)
+[Lecture 2 Notes (PDF)](http://www.whoi.edu/fileserver.do?id=129404&pt=2&p=146929)
 {{< tdclose >}}
 
 {{< trclose >}}
